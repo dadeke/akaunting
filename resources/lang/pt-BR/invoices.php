@@ -35,6 +35,7 @@ return [
     'mark_sent'             => 'Marcar Como Enviada',
     'mark_viewed'           => 'Marcar como visualizado',
     'mark_cancelled'        => 'Marcar como cancelado',
+    'new_invoice'           => 'Nova Fatura',
     'download_pdf'          => 'Baixar em PDF',
     'send_mail'             => 'Enviar E-mail',
     'all_invoices'          => 'Faça login para ver todas as faturas',

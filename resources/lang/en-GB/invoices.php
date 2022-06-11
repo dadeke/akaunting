@@ -35,6 +35,7 @@ return [
     'mark_sent'             => 'Mark Sent',
     'mark_viewed'           => 'Mark Viewed',
     'mark_cancelled'        => 'Mark Cancelled',
+    'new_invoice'           => 'New Invoice',
     'download_pdf'          => 'Download PDF',
     'send_mail'             => 'Send Email',
     'all_invoices'          => 'Login to view all invoices',
